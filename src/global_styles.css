@@ -1,0 +1,10 @@
+/* Add application styles & imports to this file! */
+textarea {
+  min-width: 300px;
+  min-height: 300px;
+}
+
+.d-flex {
+  display: flex;
+  gap: 20px;
+}
